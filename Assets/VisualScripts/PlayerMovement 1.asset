@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: PlayerMovement 1
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-25.08393,"y":132.8083},"zoom":0.5999999,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-468.0,"y":-29.0},"guid":"58d66112-30b8-430c-810b-57f9512b4bc1","$version":"A","$type":"Unity.VisualScripting.OnCollisionStay","$id":"9"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Ground","$type":"System.String"},"object":null},"position":{"x":-160.0,"y":82.0},"guid":"67e05f54-c036-470c-aff8-80de48f8216c","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"collider","destinationUnit":{"$ref":"11"},"destinationKey":"object","guid":"f20655e9-1f26-4916-94a3-d9800e17ee99","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
