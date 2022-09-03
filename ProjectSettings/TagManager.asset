@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - SoundManager
+  - Spike
   layers:
   - Default
   - TransparentFX
