@@ -13,6 +13,5 @@ MonoBehaviour:
   m_Name: AudioPlayer
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-76.0,"y":44.0},"zoom":0.848,"elements":[{"chainable":false,"member":{"name":"DontDestroyOnLoad","parameterTypes":["UnityEngine.Object"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"%target":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-41.0,"y":-54.0},"guid":"7ca3f246-26b0-4c57-bc88-ddfcdeaef98b","$version":"A","$type":"Unity.VisualScripting.InvokeMember"}],"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 11400000}
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-76.0,"y":199.0654},"zoom":0.848,"elements":[],"$version":"A"}}'
+    _objectReferences: []
